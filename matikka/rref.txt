@@ -1,0 +1,12 @@
+vasen reunimmainen alkio ylimm‰ksi
+jaa oma rivi ensimm‰isell‰ ei nollalla (ensimm‰iseksi nro 1)
+v‰henn‰ muista riveist‰ sopivalla keroimella, jotta saa nollia sen alle
+merkitse rivi valmiiksi
+toista, kunnes oikeassa reunassa tai ala reunassa
+
+aloita oikealta alhaalta
+etsi alin ei nolla rivi  
+hanki sen rivin ensimm‰isen alkion p‰‰lle nollia 
+(v‰hent‰m‰ll‰ ylemist‰ rivist‰ sopivalla keroimella)
+merkitse rivi valmiiksi
+toista
